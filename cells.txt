@@ -195,8 +195,14 @@ i83	24.07
 i84	24.07
 
 
-prve meranie (potom boli clanky pouzite)
+first measurement
 i85	14.97
 i86	22.8
 i87	28.72
 i88	28.13
+
+after use in toy car (23.9.2025)
+i85	14.23
+i86	21.07
+i87	27.66
+i88	26.82
